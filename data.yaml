@@ -1,0 +1,5 @@
+train: ../dataset/train
+val: ../dataset/text
+
+nc: 6  # 类别数量
+names: ['杨桃', '火龙果','香蕉','李子','桃子','苹果']  # 类别名称
