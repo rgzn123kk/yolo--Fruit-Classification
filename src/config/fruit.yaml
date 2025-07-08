@@ -1,0 +1,11 @@
+path: ../data
+
+train: train
+
+val: val
+
+test: test
+
+nc: 5
+
+names: ['ping guo', 'li zi', 'xiang jiao', 'tao zi', 'yang tao']
